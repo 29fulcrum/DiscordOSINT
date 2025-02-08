@@ -1,5 +1,12 @@
 # 🕵️ 𝕿𝖍𝖎𝖘 𝖜𝖎𝖑𝖑 𝖈𝖔𝖓𝖙𝖆𝖎𝖓 𝖚𝖘𝖊𝖋𝖚𝖑 𝖗𝖊𝖘𝖔𝖚𝖗𝖈𝖊𝖘 𝖙𝖔 𝖈𝖔𝖓𝖉𝖚𝖈𝖙 𝖗𝖊𝖘𝖊𝖆𝖗𝖈𝖍 𝖔𝖓 𝕯𝖎𝖘𝖈𝖔𝖗𝖉 🕵️
 
+<div align="center">
+<a href="https://github.com/termoyadernyy/DiscordOSINT" title="Go to GitHub repo">
+  <img src="https://img.shields.io/static/v1?label=termoyadernyy&message=DiscordOSINT&color=purple&logo=github" alt="termoyadernyy - DiscordOSINT">
+</a>
+  <a href="https://discord.gg/VQUvAVpJPr" style="text-decoration: none;">
+  <img src="https://discord.com/api/guilds/1336059889524670534/widget.png?style=shield" alt="Discord Shield"/>
+</div>
 
 Discord official website: https://discord.com/
 1. [Restore access to a discord account](https://discord.com/login)
