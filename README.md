@@ -1,4 +1,4 @@
-# 🕵️ 𝕿𝖍𝖎𝖘 𝖜𝖎𝖑𝖑 𝖈𝖔𝖓𝖙𝖆𝖎𝖓 𝖚𝖘𝖊𝖋𝖚𝖑 𝖗𝖊𝖘𝖔𝖚𝖗𝖈𝖊𝖘 𝖙𝖔 𝖈𝖔𝖓𝖉𝖚𝖈𝖙 𝖗𝖊𝖘𝖊𝖆𝖗𝖈𝖍 𝖔𝖓 𝕯𝖎𝖘𝖈𝖔𝖗𝖉 🕵️
+# 🕵️ 𝐓𝐡𝐢𝐬 𝐰𝐢𝐥𝐥 𝐜𝐨𝐧𝐭𝐚𝐢𝐧 𝐮𝐬𝐞𝐟𝐮𝐥 𝐫𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬 𝐭𝐨 𝐜𝐨𝐧𝐝𝐮𝐜𝐭 𝐫𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐨𝐧 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 🕵️
 
 <div align="center">
 <a href="https://github.com/termoyadernyy/DiscordOSINT" title="Go to GitHub repo">
