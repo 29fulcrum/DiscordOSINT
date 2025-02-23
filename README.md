@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://github.com/badpseudo/DiscordOSINT" title="Go to GitHub repo">
-  <img src="https://img.shields.io/static/v1?label=termoyadernyy&message=DiscordOSINT&color=purple&logo=github" alt="badpseudo - DiscordOSINT">
+  <img src="https://img.shields.io/static/v1?label=badpseudo&message=DiscordOSINT&color=purple&logo=github" alt="badpseudo - DiscordOSINT">
 </a>
   <a href="https://discord.gg/VQUvAVpJPr" style="text-decoration: none;">
   <img src="https://discord.com/api/guilds/1336059889524670534/widget.png?style=shield" alt="Discord Shield"/>
