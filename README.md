@@ -1,8 +1,8 @@
 # 🕵️ 𝐓𝐡𝐢𝐬 𝐰𝐢𝐥𝐥 𝐜𝐨𝐧𝐭𝐚𝐢𝐧 𝐮𝐬𝐞𝐟𝐮𝐥 𝐫𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬 𝐭𝐨 𝐜𝐨𝐧𝐝𝐮𝐜𝐭 𝐫𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐨𝐧 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 🕵️  
 
 <div align="center">
-<a href="https://github.com/termoyadernyy/DiscordOSINT" title="Go to GitHub repo">
-  <img src="https://img.shields.io/static/v1?label=termoyadernyy&message=DiscordOSINT&color=purple&logo=github" alt="termoyadernyy - DiscordOSINT">
+<a href="https://github.com/badpseudo/DiscordOSINT" title="Go to GitHub repo">
+  <img src="https://img.shields.io/static/v1?label=termoyadernyy&message=DiscordOSINT&color=purple&logo=github" alt="badpseudo - DiscordOSINT">
 </a>
   <a href="https://discord.gg/VQUvAVpJPr" style="text-decoration: none;">
   <img src="https://discord.com/api/guilds/1336059889524670534/widget.png?style=shield" alt="Discord Shield"/>
@@ -105,7 +105,7 @@ Note that "SystemExploited" and the userID used should be replaced with your tar
 6. system exploited discord titkok
 
 ## License
-<a href="https://github.com/termoyadernyy/DiscordOSINT/blob/main/LICENSE" title="LICENSE">
+<a href="https://github.com/badpseudo/DiscordOSINT/blob/main/LICENSE" title="LICENSE">
   <img src="https://img.shields.io/static/v1?label=&message=LICENSE&color=blue&logo=github" alt="LICENSE">
 </a>
 
